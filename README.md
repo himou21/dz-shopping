@@ -1,2 +1,0 @@
-# dz-shopping
-dz-shopping
